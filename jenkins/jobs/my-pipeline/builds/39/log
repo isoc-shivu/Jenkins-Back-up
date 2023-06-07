@@ -1,0 +1,19 @@
+Started by user [8mha:////4Jf4fGDc01SPcYwDTcl3inv243wgR+o7UZBNktFSZh4KAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building remotely on [8mha:////4DfZYPa1NkeiqJywG1FwQPJhph8GQekRCaUvjNTECyiaAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYR/eT83ILSktQi/ZTUMt3i1KKy1CIAwoyEK8kAAAA=[0mdev-server (dev-agent) in workspace /var/www/tutorial/workspace/my-pipeline
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/www/tutorial/workspace/my-pipeline/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/isoc-shivu/hello-world-html.git # timeout=10
+Fetching upstream changes from https://github.com/isoc-shivu/hello-world-html.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/isoc-shivu/hello-world-html.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/Dev^{commit} # timeout=10
+Checking out Revision 9693d3425aafb374a1ea4792b49c70200962ec01 (refs/remotes/origin/Dev)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 9693d3425aafb374a1ea4792b49c70200962ec01 # timeout=10
+Commit message: "Update index.html"
+ > git rev-list --no-walk 9693d3425aafb374a1ea4792b49c70200962ec01 # timeout=10
+No emails were triggered.

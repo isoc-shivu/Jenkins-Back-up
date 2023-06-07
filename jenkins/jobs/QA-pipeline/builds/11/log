@@ -1,0 +1,25 @@
+Started by GitHub push by isoc-shivu
+Started by GitHub push by isoc-shivu
+Running as SYSTEM
+Building remotely on [8mha:////4Dqysn9SBvaI3pyWuoqtJT5w5d8TtK8DxjxmPwFDbcunAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6yfm5BaUlqUX6gY66iempeSUAJXBXb8cAAAA=[0mQA-agent in workspace /var/www/tutorial/workspace/QA-pipeline
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/www/tutorial/workspace/QA-pipeline/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/isoc-shivu/hello-world-html.git # timeout=10
+Fetching upstream changes from https://github.com/isoc-shivu/hello-world-html.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/isoc-shivu/hello-world-html.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/QA^{commit} # timeout=10
+Checking out Revision 007c20ef1acb7b65f52952af8114401c00cffb44 (refs/remotes/origin/QA)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 007c20ef1acb7b65f52952af8114401c00cffb44 # timeout=10
+Commit message: "Merge pull request #7 from isoc-shivu/Dev"
+ > git rev-list --no-walk 09653d92c6cee17c7ebda3f26d6de8effc6de58a # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Sending email for trigger: Always
+Warning: noreply@github.com is not a recognized user, but sending mail anyway
+Sending email to: noreply@github.com shivup.sp64@gmail.com
+Finished: SUCCESS

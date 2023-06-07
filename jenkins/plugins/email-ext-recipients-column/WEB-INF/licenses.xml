@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='email-ext-recipients-column' version='27.vb_9404db_b_018d'><l:dependency name='Email Ext Recipients Column Plugin' groupId='org.jenkins-ci.plugins' artifactId='email-ext-recipients-column' version='27.vb_9404db_b_018d' url='https://github.com/jenkinsci/email-ext-recipients-column-plugin'><l:description>The Jenkins Plugins Parent POM Project</l:description></l:dependency></l:dependencies>

@@ -1,0 +1,25 @@
+Started by GitHub push by isoc-shivu
+Started by GitHub push by isoc-shivu
+Running as SYSTEM
+Building remotely on [8mha:////4DfZYPa1NkeiqJywG1FwQPJhph8GQekRCaUvjNTECyiaAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYR/eT83ILSktQi/ZTUMt3i1KKy1CIAwoyEK8kAAAA=[0mdev-server (dev-agent) in workspace /var/www/tutorial/workspace/my-pipeline
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/www/tutorial/workspace/my-pipeline/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/isoc-shivu/hello-world-html.git # timeout=10
+Fetching upstream changes from https://github.com/isoc-shivu/hello-world-html.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.25.1'
+ > git fetch --tags --force --progress -- https://github.com/isoc-shivu/hello-world-html.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/Dev^{commit} # timeout=10
+Checking out Revision 26efbdbdacbc9a69ced72357ab182a4bed80f496 (refs/remotes/origin/Dev)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 26efbdbdacbc9a69ced72357ab182a4bed80f496 # timeout=10
+Commit message: "Update index.html"
+ > git rev-list --no-walk 68da00a957b5523bf667979c1cef233f3683fe60 # timeout=10
+No emails were triggered.
+Email was triggered for: Always
+Sending email for trigger: Always
+Request made to compress build log
+Sending email to: shivup.sp64@gmail.com
+Finished: SUCCESS

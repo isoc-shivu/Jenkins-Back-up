@@ -1,0 +1,40 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<jenkins.security.apitoken.ApiTokenStats>
+  <tokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>ee884ec3-575c-449f-ac27-d710a3f38cc4</tokenUuid>
+      <lastUseDate>2023-06-03 02:26:04.743 UTC</lastUseDate>
+      <useCounter>19</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>c0882a11-a120-4e80-9a8c-ee8fe8a06844</tokenUuid>
+      <lastUseDate>2023-06-05 21:19:26.264 UTC</lastUseDate>
+      <useCounter>19</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>d47ba008-f10e-4165-8e28-8bc507b9c5be</tokenUuid>
+      <lastUseDate>2023-05-30 00:57:58.357 UTC</lastUseDate>
+      <useCounter>24</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>d3566fcf-cd00-41f5-a290-4fae9bb26c4c</tokenUuid>
+      <lastUseDate>2023-06-04 15:59:57.494 UTC</lastUseDate>
+      <useCounter>149</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>ba98b295-0749-40a0-8600-65959c1c2b84</tokenUuid>
+      <lastUseDate>2023-05-30 23:07:34.414 UTC</lastUseDate>
+      <useCounter>153</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>5f18f93d-dde6-45b2-a502-343a33f52790</tokenUuid>
+      <lastUseDate>2023-06-03 02:41:45.396 UTC</lastUseDate>
+      <useCounter>153</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+    <jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+      <tokenUuid>d2a2e561-0298-430f-a057-b4011b90fbec</tokenUuid>
+      <lastUseDate>2023-06-06 05:06:34.699 UTC</lastUseDate>
+      <useCounter>28</useCounter>
+    </jenkins.security.apitoken.ApiTokenStats_-SingleTokenStats>
+  </tokenStats>
+</jenkins.security.apitoken.ApiTokenStats>
